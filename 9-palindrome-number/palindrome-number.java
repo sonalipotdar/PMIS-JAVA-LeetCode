@@ -9,9 +9,9 @@ class Solution {
         if(rev==x){
                 return true ;
             }
-            else{
-                return false;
-            }
+            
+            return false;
+            
     }
 
 }
